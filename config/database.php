@@ -32,7 +32,7 @@ return [
     | choice installed on your machine before you begin development.
     |
     */
-    //test
+    //test2
 
     'connections' => [
 
